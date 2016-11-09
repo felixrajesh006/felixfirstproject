@@ -1,0 +1,77 @@
+regular expression 
+class and inheritance
+
+zend 
+design pattern singleton
+
+normalization
+
+call function - magic methods 
+
+
+selectors
+
+magento - libraries
+
+
+
+function/ member function
+function /overloading 
+polymorism
+oops
+class
+getbyelement"tags
+getbyelement id
+assending arry concept
+split and explode diff 
+design patterns
+factory / singleton
+
+unset / unlink
+session & cookie
+get and post methods 
+
+magic methods
+
+svn & git
+Rest & soap.
+
+
+stored procedure
+indexer
+trigger
+default engine
+
+
+
+get
+The GET method sends the encoded user information appended to the page request
+GET can't be used to send binary data, like images or word documents, to the server.
+The GET method is restricted to send upto 1024 characters only.
+Spaces are removed and replaced with the + character
+The PHP provides $_GET associative array to access all the sent information using GET method.
+
+POST
+The POST method transfers information via HTTP headers
+The POST method does not have any restriction on data size to be sent.
+The PHP provides $_POST associative array to access all the sent information using POST method.
+
+Ajax
+Ajax is used to communicate with web pages and web servers. Below example demonstrate a search field using with Ajax.
+
+
+Session & cookies:- 
+The main difference between a session and a cookie is that session data is stored on the server, whereas cookies store data in the visitor's browser.
+
+The problem with sessions is that when you close your browser you also lose the session. So, if you had a site requiring a login, this couldn't be saved as a session like it could as a cookie, and the user would be forced to re-login every time they visit.
+
+
+
+
+
+
+
+
+
+
+
